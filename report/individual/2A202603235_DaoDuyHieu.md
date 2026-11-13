@@ -18,8 +18,8 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | 0 | 149 | Di chuyển chậm trong cửa hàng | 0–59 (`occluded`) | Người ở phía trong cửa hàng Vodafone; tương ứng PERSON 1 / Track 0 |
-| P2 | 61 | 149 | Xuất hiện từ frame 61; có nhiều lần chỉnh box dày ở đoạn 100–142 | 61–99, 101 và 131 (`occluded`) | Người xuất hiện tại khu vực cửa kính bên trái; tương ứng PERSON 2 / Track 1 |
+| P1 | 0 | 149 | Di chuyển chậm trong cửa hàng | 0–51 (`occluded`) | Người ở phía trong cửa hàng Vodafone; tương ứng PERSON 1 / Track 0 |
+| P2 | 61 | 149 | Xuất hiện từ frame 62; có nhiều lần chỉnh box dày ở đoạn 100–142 | 61–99, 101 (`occluded`) | Người xuất hiện tại khu vực cửa kính bên trái; tương ứng PERSON 2 / Track 1 |
 | P3 | 0 | 149 | Di chuyển từ phía phải và thay đổi kích thước khi tiến gần camera; không thấy mốc dừng rõ | 0–69 (`occluded`) | Người đàn ông mặc áo xanh, đội mũ; tương ứng PERSON 3 / Track 2 |
 | P4 | 0 | 109 | Di chuyển ở phía xa và ra khỏi đoạn theo dõi sau frame 109 | 90–109 (`occluded`), từ 110 (`outside`) | Người phụ nữ ở phía xa, gần khu Woolworths; tương ứng PERSON 5 / Track 4 |
 | P5 | 0 | 149 | Di chuyển từ trái sang phải; thay đổi rõ quanh frame 109–127 và khi xuất hiện lại ở 149 | 0–39, 109, 113–119, 127–136 và 149 (`occluded`); 120–126, 137–148 (`outside`) | Người đàn ông mặc áo khoác đen; tương ứng PERSON 4 / Track 3 |
